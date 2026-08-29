@@ -1,0 +1,14 @@
+.venv/
+.mplconfig/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+
+# Reports submitted separately to the LMS
+report/
+
+# Packaged archives
+*.zip
+CSCD608_Panorama_Submission/
+CSCD608_Panorama_Submission.zip

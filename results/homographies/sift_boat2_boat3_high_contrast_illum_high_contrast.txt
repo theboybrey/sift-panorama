@@ -1,0 +1,4 @@
+SIFT homography mapping boat2.jpg -> boat3_high_contrast.jpg [illum_high_contrast]
+1.32108786 -0.01157251 -597.98770854
+0.11879599 1.22583223 -121.04874812
+0.00026252 0.00001230 1.00000000

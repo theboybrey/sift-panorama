@@ -1,0 +1,58 @@
+[
+  {
+    "filename": "boat1.jpg",
+    "path": "data/original/boat1.jpg",
+    "width": 3888,
+    "height": 2592,
+    "channels": 3,
+    "dtype": "uint8",
+    "working_width": 1200,
+    "working_height": 800,
+    "scale": 0.30864197530864196,
+    "scene_notes": "Leftmost waterfront view. Tall ship and embankment on the left; fortress/spire enter from the right. Consecutive overlap with boat2.",
+    "approximate_overlap": "consecutive ~40-60% (visual)",
+    "image_type": "JPEG photograph"
+  },
+  {
+    "filename": "boat2.jpg",
+    "path": "data/original/boat2.jpg",
+    "width": 3888,
+    "height": 2592,
+    "channels": 3,
+    "dtype": "uint8",
+    "working_width": 1200,
+    "working_height": 800,
+    "scale": 0.30864197530864196,
+    "scene_notes": "Centre view. Peter and Paul Fortress and golden spire are dominant. Overlaps boat1 on the left of the fortress and boat3 on the right.",
+    "approximate_overlap": "consecutive ~40-60% (visual)",
+    "image_type": "JPEG photograph"
+  },
+  {
+    "filename": "boat3.jpg",
+    "path": "data/original/boat3.jpg",
+    "width": 3888,
+    "height": 2592,
+    "channels": 3,
+    "dtype": "uint8",
+    "working_width": 1200,
+    "working_height": 800,
+    "scale": 0.30864197530864196,
+    "scene_notes": "Rightward view. Fortress/spire sit on the left; a long bridge and the opposite bank appear on the right. Consecutive overlap with boat2.",
+    "approximate_overlap": "consecutive ~40-60% (visual)",
+    "image_type": "JPEG photograph"
+  },
+  {
+    "filename": "boat4.jpg",
+    "path": "data/original/boat4.jpg",
+    "width": 3888,
+    "height": 2592,
+    "channels": 3,
+    "dtype": "uint8",
+    "working_width": 1200,
+    "working_height": 800,
+    "scale": 0.30864197530864196,
+    "scene_notes": "Further-right viewpoint used only for the wide-baseline experiment. Less overlap with boat1 than the adjacent pair.",
+    "approximate_overlap": "wide baseline vs boat1",
+    "image_type": "JPEG photograph"
+  }
+]
